@@ -1,3 +1,2 @@
-
-existen dos tipos de programacion: por un lado, aquellos de los que la gente se queja todo el rato; por otro, los que nadie utiliza.
-hay una antigua historia sobre una persona que queria que su ordenador fuese tan facil de utilizar como su telefono. Estos deseos se han hecho realidad, ya no se como usar mi telefono.
+existen dos tipos de lenguajes de programcion: por un lado, aquellos de los que la gente se queja todo el rato; por otro, los que nadie utiliza.
+un codigo sin polimorfismo pero a la orientado a objetos es maravilloso.

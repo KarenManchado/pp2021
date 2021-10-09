@@ -6,7 +6,7 @@ int main()
 {
     ofstream archivo;
     archivo.open("QuotesOfBjarneplain.txt",ios::out);
-    if(archivo.fail())
+    if(!archivo)
     {
         cerr << "Error opening file" << endl;
         exit(EXIT_FAILURE);
